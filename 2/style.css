@@ -8,7 +8,7 @@ body{
 }
 #general{
     position: absolute;
-    top: 5%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%,50%);
 
@@ -41,3 +41,29 @@ body{
 .social ul li a i:hover{
   color: black;
 }
+.social ul li .fb i{
+    display: inline-block;
+    color: rgba(35, 35, 191, 0.993);
+}
+
+.social ul li .tw i{
+    color: #7995de;
+}
+
+
+.social ul li .go i{
+    color: #c61d1d;
+}
+
+
+.social ul li .ln i{
+    color: #264db1;
+}
+
+
+
+.social ul li .ig i{
+    color: blue;
+}
+
+
